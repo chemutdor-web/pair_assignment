@@ -1,4 +1,17 @@
-h1{color:purple}
-#purps{color: blue;}
-#font{font-family: cursive;}
-#weight{font-weight: 800;}
+h1{
+    color:purple;
+    text-align:center; 
+    font-style: normal;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    line-height:0cap;}
+
+    #purps{color: blue;}
+    #font{font-style: oblique;}
+    #weight{font-weight: bolder;}
+
+    body{background-color: orangered;}
+
+
+
